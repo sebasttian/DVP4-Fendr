@@ -54,8 +54,8 @@
 		B001A2E41F9FFD7A006245C1 /* Fendr */ = {
 			isa = PBXGroup;
 			children = (
-				B001A2E51F9FFD7A006245C1 /* AppDelegate.swift */,
 				B001A2E71F9FFD7A006245C1 /* ViewController.swift */,
+				B001A2E51F9FFD7A006245C1 /* AppDelegate.swift */,
 				B001A2E91F9FFD7A006245C1 /* Main.storyboard */,
 				B001A2EC1F9FFD7A006245C1 /* Assets.xcassets */,
 				B001A2EE1F9FFD7A006245C1 /* LaunchScreen.storyboard */,
